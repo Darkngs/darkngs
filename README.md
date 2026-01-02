@@ -1,13 +1,10 @@
 ## Hi there, I'm <a href="https://golyash.com" target="_blank">Nick</a> 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkngs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkngs)
+[![Profile views](https://komarev.com/ghpvc/?username=darkngs&style=flat-square)](https://github.com/Darkngs)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/darkngs)
 
 <!--
-**Darkngs/darkngs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+✨ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkngs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkngs)
