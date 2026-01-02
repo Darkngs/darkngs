@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm <a href="https://golyash.com" target="_blank">Nick</a> 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkngs)
 
